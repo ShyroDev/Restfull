@@ -5,7 +5,7 @@ import mongoose from 'mongoose';
 import { config } from './config/config';
 import Logging from './library/Logging';
 import employeRoutes from './routes/EmployeRoutes';
-import animalRoutes from './routes/AnimalsRoutes';
+import animalRoutes from './routes/AnimalRoutes';
 import especeRoutes from './routes/EspeceRoutes';
 
 mongoose.set('strictQuery', true);

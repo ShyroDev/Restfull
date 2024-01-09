@@ -1,5 +1,4 @@
 import mongoose, { Schema, Document } from 'mongoose';
-import { Schema, Document } from 'mongoose';
 
 
 // Schéma  pour l'animal
